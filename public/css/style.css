@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* body{
+    background-color: red;
+} */
+
+nav,
+.navbar-brand,
+.dropdown-item {
+  font-size: 2rem;
+}
+
+
+p,ul{
+    font-size:2rem ;
+}
+.content{
+    padding:1rem;
+}
