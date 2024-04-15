@@ -8,6 +8,10 @@ html {
   font-size: 62.5%;
 }
 
+main{
+font-size:2rem;
+}
+
 /* body{
     background-color: red;
 } */
@@ -24,4 +28,14 @@ p,ul{
 }
 .content{
     padding:1rem;
+}
+/* kimura and triangle */
+
+a {
+  display: block;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: green;
 }
